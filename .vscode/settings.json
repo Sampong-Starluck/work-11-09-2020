@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "exception": "cpp",
+        "*.tcc": "cpp"
+    },
+    "java.format.settings.url": "eclipse-formatter.xml"
+}
